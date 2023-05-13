@@ -1,0 +1,15 @@
+body{
+	
+}
+#wrapper{
+	margin: 0 auto;
+	width: 800px;
+}
+.slideshow {
+    float: left;
+    width: 890px;
+    height: 400px;
+    overflow: hidden;
+    margin-bottom: 20px;
+    border: 10px solid #666;
+}

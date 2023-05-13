@@ -1,0 +1,38 @@
+.main-nav{
+	background-color: #bbb;
+	color: #fff;
+	margin: 0;
+	list-style: none;
+	text-align: center;
+}
+.main-nav li {
+	display: inline-block;
+	padding-right: 30px;
+}
+.main-nav li a{
+	text-decoration: none;
+	font-size: 40px;
+	color: #fff;
+}
+@media(max-width: 650px){
+	.main-nav{
+		background-color: #333;
+		text-align: left;
+		display: none;
+	}
+	.main-nav li{
+		display: block;
+	}
+	.main-nav-btn:before{
+		content: url('images/menu button.png') "menu ";
+		padding-right: 10px;
+	}
+	.main-nav-btn{
+		display: block;
+		background-color: #bbb;
+		color: #fff;
+		font-size: 40px;
+		text-align: right;
+		cursor: pointer;
+	}
+}
