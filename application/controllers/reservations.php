@@ -189,13 +189,13 @@
 				'smtp_host' => 'smtp.hostinger.com',
 				'smtp_port' => 465,
 				'smtp_user' => $avbnbEmail,
-				'smtp_pass' => 'myN2652NC140!!'
+				'smtp_pass' => ''
 			);
 /* 			$config = Array(
 				'smtp_host' => 'smtp.gmail.com', //'mail.briandorseymusic.com',
 				'smtp_port' => 25,
 				'smtp_user' => $avbnbEmail,
-				'smtp_pass' => 'myN2652NC140!!'
+				'smtp_pass' => ''
 			); */
 			
 			
