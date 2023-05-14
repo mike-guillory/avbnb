@@ -57,7 +57,7 @@ $db['default']['hostname'] = 'localhost';
 
 // **** For Production ****
 $db['default']['username'] = 'u239323243_guillorym';
-$db['default']['password'] = 'myN2652NC140!!';
+$db['default']['password'] = '';
 $db['default']['database'] = 'u239323243_avbnb';
 
 $db['default']['dbdriver'] = 'mysqli';
